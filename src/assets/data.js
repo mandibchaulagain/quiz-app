@@ -39,4 +39,5 @@ export const data = [
       option4: "Pen Drive",
       ans: 2,
     },
+    
   ];
